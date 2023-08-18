@@ -1,3 +1,6 @@
 import flet as ft
 
-print(1399)
+def main(page: ft.Page):
+    pass
+
+ft.app(target=main)
